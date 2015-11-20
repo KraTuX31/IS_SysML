@@ -1,0 +1,3 @@
+[submodule "LaTexTemplate"]
+	path = LaTexTemplate
+	url = git@github.com:aroquemaurel/LaTexTemplate.git
